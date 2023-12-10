@@ -1,9 +1,10 @@
-# 💫 About Me:
-💬 Third-year Epitech student specialized in full-stack development with a passion for Cyber Security<br>🔭 Currently working on AREA (Action REAction), inspired by IFTTT and Zapier<br>🌱 Currently seeking a 4-month internship opportunity for the conclusion of my third year
-
 ![](https://github-readme-stats.vercel.app/api?username=Thibauut&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thibauut&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thibauut&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 💫 About Me:
+💬 Third-year Epitech student specialized in full-stack development with a passion for Cyber Security<br>🔭 Currently working on AREA (Action REAction), inspired by IFTTT and Zapier<br>🌱 Currently seeking a 4-month internship opportunity for the conclusion of my third year
+
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Thibaut#3145) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thibaut-tran-5a7454233) [![Email](https://img.shields.io/badge/Email-%237C3AED.svg?logo=microsoft-outlook&logoColor=white)](mailto:thibaut.tran@epitech.eu)
