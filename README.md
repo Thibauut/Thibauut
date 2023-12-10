@@ -1,5 +1,5 @@
 <a href="https://drive.google.com/file/d/1BQR_V4uAgMnWzVGYy0CAvYqF2tjAgJke/view?usp=sharing">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562" alt="MasterHead" width="100%" height="200">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562" alt="MasterHead">
 </a>
 
 # 💫 About Me:
