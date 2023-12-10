@@ -1,7 +1,6 @@
 # 💫 About Me:
 💬 Third-year Epitech student specialized in full-stack development with a passion for Cyber Security<br>🔭 Currently working on AREA (Action REAction), inspired by IFTTT and Zapier<br>🌱 Currently seeking a 4-month internship opportunity for the conclusion of my third year
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Thibauut&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thibauut&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thibauut&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
