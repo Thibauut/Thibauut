@@ -1,4 +1,7 @@
-[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562)](https://drive.google.com/file/d/1BQR_V4uAgMnWzVGYy0CAvYqF2tjAgJke/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1BQR_V4uAgMnWzVGYy0CAvYqF2tjAgJke/view?usp=sharing">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562" alt="MasterHead" width="auto" height="200">
+</a>
+
 # 💫 About Me:
 💬 Third-year Epitech student specialized in full-stack development with a passion for Cyber Security<br>🔭 Currently working on AREA (Action REAction), inspired by IFTTT and Zapier<br>🌱 Currently seeking a 4-month internship opportunity for the conclusion of my third year<br>
 📄 My Curriculum Vitae is available [Here](https://drive.google.com/file/d/1BQR_V4uAgMnWzVGYy0CAvYqF2tjAgJke/view?usp=sharing)
