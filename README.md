@@ -1,7 +1,7 @@
 [![MasterHead](./banner.gif)](https://drive.google.com/file/d/1BQR_V4uAgMnWzVGYy0CAvYqF2tjAgJke/view?usp=sharing)
 
 # 💫 About Me
-💬 Third-year Epitech student specialized in full-stack development with a passion for Cyber Security<br>🔭 Currently working on AREA (Action REAction), inspired by IFTTT and Zapier<br>🌱 Currently seeking a 4-month internship opportunity for the conclusion of my third year<br>
+💬 Third-year Epitech student specialized in full-stack development with a passion for Cyber Security<br>🌱 Currently seeking a 4-month internship opportunity for the conclusion of my third year<br>
 📄 My Curriculum Vitae is available [Here](https://drive.google.com/file/d/1BQR_V4uAgMnWzVGYy0CAvYqF2tjAgJke/view?usp=sharing)<br>
 
 # 🏆 GitHub Stats
