@@ -1,7 +1,7 @@
 [![MasterHead](./banner.gif)](https://drive.google.com/file/d/1BQR_V4uAgMnWzVGYy0CAvYqF2tjAgJke/view?usp=sharing)
 
 # 💫 About Me
-💬 Third-year Epitech student specialized in software engineering with a passion for Cyber Security<br>🌱 Currently in Korea as a exchange student studying at INHA University of my fourth year<br>
+💬 Fourth-year Epitech student specialized in Software Engineering with a passion for Cyber Security<br>🌱 Currently in Korea as an exchange student studying at INHA University for my fourth year<br>
 📄 My Curriculum Vitae is available [Here](https://drive.google.com/file/d/1BQR_V4uAgMnWzVGYy0CAvYqF2tjAgJke/view?usp=sharing)<br>
 
 # 🌐 Socials
